@@ -1,1 +1,1 @@
-console.log('Sign up component');
+// console.log('Sign up component');
